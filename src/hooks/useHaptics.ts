@@ -1,4 +1,4 @@
-import { useState, useCallback, useEffect } from 'react';
+import { useCallback } from 'react';
 
 /**
  * Hook to trigger haptic feedback on supported mobile devices
